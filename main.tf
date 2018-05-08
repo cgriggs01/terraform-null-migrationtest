@@ -8,4 +8,4 @@ variable "last_name" {
 
 output "full_name" {
   value = "${var.first_name} ${var.last_name}"
-
+}
