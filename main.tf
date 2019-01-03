@@ -1,9 +1,9 @@
 variable "first_name" {
-  default = "Justin"
+  default = "Chris"
 }
 
 variable "last_name" {
-  default = "Campbell"
+  default = "Griggs"
 }
 
 output "full_name" {
